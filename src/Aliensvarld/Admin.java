@@ -13,6 +13,7 @@
     public Login login;
     public ResetPass reset;
     private static int id;
+    //fghfghfgh
 
     public int AdmintId(String namn){
          try {
